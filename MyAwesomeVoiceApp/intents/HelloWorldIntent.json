@@ -1,0 +1,28 @@
+{
+  "id": "0e38e993-b37f-4da1-8a6f-d05299f472f9",
+  "name": "HelloWorldIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "how are you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511867087,
+  "fallbackIntent": false,
+  "events": []
+}
